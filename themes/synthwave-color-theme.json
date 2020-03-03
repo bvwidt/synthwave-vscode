@@ -144,7 +144,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#495495",
+        "foreground": "#539348",
         "fontStyle": "italic"
       }
     },
